@@ -1,0 +1,47 @@
+
+.instance-screen {
+    margin-left: 300px;
+}
+
+.new-instance {
+    font-size:xx-large;
+}
+
+.sub-labels {
+    font-weight: bold;
+    font-size: large;
+}
+
+.instance-details {
+    display: flex;
+    align-items: center;
+    margin-right: 60px;
+    margin-top: 20px;
+}
+
+.instance-select {
+    margin-right: 8px;
+}
+
+.tag-details {
+    display: flex;
+    align-items: center;
+}
+
+.tag-select {
+    margin-right: 50px;
+}
+
+.request-reason {
+    display: flex;
+    align-items: center;
+}
+
+.request-space {
+    margin-right: 4px;
+}
+
+.buttons {
+    margin-top: 100px;
+    /* margin-left: 300px; */
+}
